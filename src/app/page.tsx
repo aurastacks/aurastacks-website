@@ -9,12 +9,11 @@ export default function Home() {
             Aurastacks Technology
           </p>
           <h1 className="mt-4 text-balance text-4xl font-semibold tracking-tight sm:text-6xl">
-            Software that fits your business, built to scale.
+            We build software products that fit your business.
           </h1>
           <p className="mt-5 text-pretty text-base leading-relaxed text-foreground/80 sm:text-lg">
-            Aurastacks builds custom software applications, ERP systems, mobile
-            apps, web apps, and provides IT consulting for teams that need
-            reliable delivery and long‑term support.
+            Aurastacks is a software development company. We build custom software applications, ERP systems, mobile
+            apps, and web apps for clients who need reliable delivery and long‑term support.
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
             <Link
